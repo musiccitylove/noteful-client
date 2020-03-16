@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "alias": "noteful-app",
-    "name": "noteful-frontend",
+    "alias": "noteful-app-charles",
+    "name": "noteful-frontend-charles",
     "routes": [
       {
         "src": "^/static/(.*)",
